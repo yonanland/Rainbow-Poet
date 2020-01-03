@@ -4,6 +4,7 @@ Purple
 Piunk
 Orange
 Blue 
+Indigo
 Green
 Unicorn
 Yellow
