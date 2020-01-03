@@ -4,6 +4,7 @@ Purple
 Piunk
 Orange
 Blue 
+Green
 Red
 
 These are the colors of a Rainbow
